@@ -111,9 +111,6 @@ function LandingPage() {
             </div>
           </div>
         </div>
-        {/*<div id="jarallax-container-0" style={{"position": "absolute", "top": "0px", "left": "0px", "width": "100%", "height": "100%", "overflow": "hidden", "pointerEvents": none, "visibility": "hidden","z-index": "-100"}}>
-              <div style="background-position: 50% 50%; background-size: 100%; background-repeat: no-repeat; background-image: image(assets/img/5.png); position: fixed; top: 0px; left: 0px; width: 2304px; height: 1080px; overflow: hidden; pointer-events: none; margin-left: -477.5px; margin-top: -340px; visibility: visible; transform: translateY(60px) translateZ(0px);"></div>
-  </div>*/}
       </div>
 
       <section className="featured-boxes-area">
